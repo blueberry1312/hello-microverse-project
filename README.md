@@ -10,12 +10,14 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [📝 License](#license)
 
 # 📖 [Hello-Microverse-project] <a name="about-project"></a>
@@ -27,6 +29,14 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 Building with HTML and CSS.
+
+### Key Features <a name="key-features"></a>
+
+
+- **[key_feature_1]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -68,6 +78,14 @@ To run the project, you need to open "index.html" file.
 - Twitter: [@nestorsitooo](https://twitter.com/nestorsitooo)
 - LinkedIn: [LinkedIn]
 (https://www.linkedin.com/in/nes-oro-658570225/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[new_feature_1]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
